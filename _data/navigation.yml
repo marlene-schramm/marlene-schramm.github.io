@@ -13,6 +13,9 @@ main:
     
   - title: "Works"
     url: /works/
+
+  - title: "Photos"
+    url: /photos/
     
   # - title: "CV"
   #   url: /cv-json/

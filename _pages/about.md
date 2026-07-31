@@ -11,5 +11,3 @@ redirect_from:
 
 This page is currently under construction, hope you come back later!
 
-[comment]: ![Editing a Markdown file for a talk](/images/editing-talk.png)
-

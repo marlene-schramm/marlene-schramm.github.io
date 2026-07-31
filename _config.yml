@@ -23,7 +23,7 @@ repository               : "marlene-schramm/marlene-schramm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_MS.png"
   name             : "Marlene Schramm"
   pronouns         : # example: "she/her"  
   bio              : "Physics Master's Student - Passionate about Climate & Polar Sciences"
